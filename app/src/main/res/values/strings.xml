@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My MEDICINE REMINDER APP</string>
+    <string name="medicnie">MEDICNIE</string>
+    <string name="enter_the_medicine_name">Enter the medicine name</string>
+</resources>
